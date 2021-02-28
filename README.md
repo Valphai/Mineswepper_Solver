@@ -1,9 +1,13 @@
 # Mineswepper_Solver
   This is a minesweeper game and a solver for it.
   
-  The solver is NOT a 100% accurate.
-  In fact it's based on making predictions for cells it doesn't know how to handle with basic rules.
-  The game is fully playable and the solver is activated with "1" key.
+The solver is NOT a 100% accurate.
+
+In fact it's based on making predictions for cells it doesn't know how to handle with basic rules.
+
+The game is fully playable. 
+
+The Solver is activated with "1" key.
 
 # Dependecies
   * pygame 
