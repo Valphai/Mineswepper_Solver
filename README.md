@@ -1,4 +1,4 @@
-# Mineswepper_Solver
+# Mineswepper Solver
 This is a minesweeper game and a solver for it.
   
 The solver is NOT a 100% accurate.  
