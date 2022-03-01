@@ -11,5 +11,11 @@ This is a minesweeper game and a solver for it.
 # Dependecies
   * pygame 
 
+# Preview
+
+![](img/mine1.png)
+![](img/mine2.png)
+![](img/mine3.png)
+
 # Solver preview
 ![Mines](https://user-images.githubusercontent.com/48419034/109420418-9e3fb380-79d2-11eb-9569-10a700d7bb9e.gif)
